@@ -1,0 +1,14 @@
+C:\Users\evela\source\repos\LabDadoProbabilidad\LabDadoProbabilidad\bin\Debug\netcoreapp3.1\LabDadoProbabilidad.exe
+C:\Users\evela\source\repos\LabDadoProbabilidad\LabDadoProbabilidad\bin\Debug\netcoreapp3.1\LabDadoProbabilidad.deps.json
+C:\Users\evela\source\repos\LabDadoProbabilidad\LabDadoProbabilidad\bin\Debug\netcoreapp3.1\LabDadoProbabilidad.runtimeconfig.json
+C:\Users\evela\source\repos\LabDadoProbabilidad\LabDadoProbabilidad\bin\Debug\netcoreapp3.1\LabDadoProbabilidad.runtimeconfig.dev.json
+C:\Users\evela\source\repos\LabDadoProbabilidad\LabDadoProbabilidad\bin\Debug\netcoreapp3.1\LabDadoProbabilidad.dll
+C:\Users\evela\source\repos\LabDadoProbabilidad\LabDadoProbabilidad\bin\Debug\netcoreapp3.1\LabDadoProbabilidad.pdb
+C:\Users\evela\source\repos\LabDadoProbabilidad\LabDadoProbabilidad\obj\Debug\netcoreapp3.1\LabDadoProbabilidad.csproj.AssemblyReference.cache
+C:\Users\evela\source\repos\LabDadoProbabilidad\LabDadoProbabilidad\obj\Debug\netcoreapp3.1\LabDadoProbabilidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evela\source\repos\LabDadoProbabilidad\LabDadoProbabilidad\obj\Debug\netcoreapp3.1\LabDadoProbabilidad.AssemblyInfoInputs.cache
+C:\Users\evela\source\repos\LabDadoProbabilidad\LabDadoProbabilidad\obj\Debug\netcoreapp3.1\LabDadoProbabilidad.AssemblyInfo.cs
+C:\Users\evela\source\repos\LabDadoProbabilidad\LabDadoProbabilidad\obj\Debug\netcoreapp3.1\LabDadoProbabilidad.csproj.CoreCompileInputs.cache
+C:\Users\evela\source\repos\LabDadoProbabilidad\LabDadoProbabilidad\obj\Debug\netcoreapp3.1\LabDadoProbabilidad.dll
+C:\Users\evela\source\repos\LabDadoProbabilidad\LabDadoProbabilidad\obj\Debug\netcoreapp3.1\LabDadoProbabilidad.pdb
+C:\Users\evela\source\repos\LabDadoProbabilidad\LabDadoProbabilidad\obj\Debug\netcoreapp3.1\LabDadoProbabilidad.genruntimeconfig.cache
